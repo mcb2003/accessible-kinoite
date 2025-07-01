@@ -1,0 +1,3 @@
+export GTK_MODULES="atk-bridge"
+export QT_ACCESSIBILITY=1
+export ENABLE_ACCESSIBILITY=1
